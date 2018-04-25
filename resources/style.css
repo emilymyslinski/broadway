@@ -1,18 +1,20 @@
 *{
     font-family: helvetica;
-    text-align: center;
 }
 
 .hero{
     background-image: url("/Users/xexm043/Desktop/emily/projects/broadway/resources/images/the-flatiron-building.png");
     color:white;
+    text-align: center;
 }
 
 h1{
     font-size: 70px;
     font-weight: bold;
 }
-
+.body{
+    text-align: center;
+}
 .btn-nav{
     font-size: 18px;
     color:white;
@@ -22,7 +24,15 @@ h2{
     font-size: 32px;
     font-weight: bold;
 }
+
 h3{
     font-size: 23px;
     font-weight: bold;
+}
+
+.footer{
+    background-color: dimgray;
+    text-align: left;
+    color:white;
+    font-size: 11px;
 }
